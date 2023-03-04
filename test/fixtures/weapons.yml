@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fire_rate: 1.5
+  damage: 1
+  area_of_effect: 1.5
+  pierce: 1
+  weapon_reload: 1.5
+  bullet_width: 1.5
+  critical_rate: 1
+  bullet_speed: 1.5
+
+two:
+  fire_rate: 1.5
+  damage: 1
+  area_of_effect: 1.5
+  pierce: 1
+  weapon_reload: 1.5
+  bullet_width: 1.5
+  critical_rate: 1
+  bullet_speed: 1.5

@@ -1,0 +1,2 @@
+class MapWeaponSquaresController < ApplicationController
+end
