@@ -5,7 +5,7 @@
 # front end build commands 
 rm -rf public
 npm install --prefix client && npm run build --prefix client
-cp -a client/build/. public/
+cp -a client/dist/. public/
 # backend build commands
 bundle install
 bundle exec rake db:migrate db:seed
